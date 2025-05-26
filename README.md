@@ -1,12 +1,15 @@
-# React + Vite
+# 🍎 Fruit Info Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FruitInfo is a clean, responsive web application built with React and Tailwind CSS that showcases detailed information about various fruits. The project uses a locally stored dataset (an array of objects) to simulate API-like data handling, making it lightweight and fast.
 
-Currently, two official plugins are available:
+## 🌟 Features
+- 📝 Displays a list of fruits with images and details
+- 🧬 Shows nutritional values and fruit family
+- 💅 Styled using Tailwind CSS for responsiveness
+- 💾 Data stored in a local JS file
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+ <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/09a480ce-4cef-4f70-af67-d83990581855)
