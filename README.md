@@ -2,6 +2,8 @@
 
 FruitInfo is a clean, responsive web application built with React and Tailwind CSS that showcases detailed information about various fruits. The project uses a locally stored dataset (an array of objects) to simulate API-like data handling, making it lightweight and fast.
 
+## 🔗 [Live Demo](https://fruitinfo.netlify.app/)
+
 ## 🌟 Features
 - 📝 Displays a list of fruits with images and details
 - 🧬 Shows nutritional values and fruit family
